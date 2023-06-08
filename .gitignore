@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+/.metadata/
+
+# Eclipse settings
+.project
+.cproject
+language.settings.xml
+*.prefs
+
+.DS_Store
